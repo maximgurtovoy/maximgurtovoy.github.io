@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-01-11_1731",
+    "name": "KOMPLEKT21",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -30,7 +30,15 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 9,
-    "versionPublish": "4.5.2"
+    "versionPublish": "4.5.2",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "favicon": "",
+    "noImageResize": "true",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
