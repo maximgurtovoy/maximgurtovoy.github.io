@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -430,6 +432,7 @@ h6,
 #ext_menu-0 .link,
 #ext_menu-0 .dropdown-item {
   color: #282828;
+  font-family: 'Lato', sans-serif;
 }
 #ext_menu-0 .link {
   font-size: 1rem;
@@ -480,6 +483,7 @@ h6,
 }
 #features1-1 .mbr-cards-col:nth-child(odd) .card-text {
   color: #282828;
+  text-align: center;
 }
 #features1-1 .mbr-cards-col:nth-child(odd) .card-title {
   color: #282828;
