@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KOMPLEKT21",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -127,7 +127,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/11.png",
+              "src": "@PROJECT_PATH@/assets/images/12.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -138,9 +138,10 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": "1000",
-              "color": ""
+              "link": "index.html",
+              "size": "",
+              "color": "",
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КОМПЛЕКТ</a>",
@@ -725,7 +726,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/11.png",
+              "src": "@PROJECT_PATH@/assets/images/12.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -733,13 +734,14 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": "1000",
+              "link": "index.html",
+              "size": "",
               "active": true,
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "color": ""
+              "color": "",
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КОМПЛЕКТ</a>",
@@ -957,7 +959,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/11.png",
+              "src": "@PROJECT_PATH@/assets/images/12.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -965,13 +967,14 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": "1000",
+              "link": "index.html",
+              "size": "",
               "active": true,
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "color": ""
+              "color": "",
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КОМПЛЕКТ</a>",
@@ -1006,12 +1009,12 @@
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Name"
               },
               "email": {
                 "visible": true,
                 "title": "Email",
-                "customTitle": "Email*"
+                "customTitle": "Email"
               },
               "phone": {
                 "visible": true,
@@ -1233,7 +1236,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/11.png",
+              "src": "@PROJECT_PATH@/assets/images/12.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1241,13 +1244,14 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": "1000",
+              "link": "index.html",
+              "size": "",
               "active": true,
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "color": ""
+              "color": "",
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КОМПЛЕКТ</a>",
@@ -1437,7 +1441,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/11.png",
+              "src": "@PROJECT_PATH@/assets/images/12.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1445,13 +1449,14 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": "1000",
+              "link": "index.html",
+              "size": "",
               "active": true,
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "color": ""
+              "color": "",
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КОМПЛЕКТ</a>",
@@ -1589,7 +1594,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/11.png",
+              "src": "@PROJECT_PATH@/assets/images/12.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1597,13 +1602,14 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": "1000",
+              "link": "index.html",
+              "size": "",
               "active": true,
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "color": ""
+              "color": "",
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КОМПЛЕКТ</a>",
@@ -1845,7 +1851,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/11.png",
+              "src": "@PROJECT_PATH@/assets/images/12.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1853,13 +1859,14 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": "1000",
+              "link": "index.html",
+              "size": "",
               "active": true,
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "color": ""
+              "color": "",
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КОМПЛЕКТ</a>",
@@ -1997,7 +2004,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/11.png",
+              "src": "@PROJECT_PATH@/assets/images/12.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2005,13 +2012,14 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": "1000",
+              "link": "index.html",
+              "size": "",
               "active": true,
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "color": ""
+              "color": "",
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КОМПЛЕКТ</a>",
@@ -2253,7 +2261,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/11.png",
+              "src": "@PROJECT_PATH@/assets/images/12.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2261,13 +2269,14 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": "1000",
+              "link": "index.html",
+              "size": "",
               "active": true,
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "color": ""
+              "color": "",
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КОМПЛЕКТ</a>",
@@ -2405,7 +2414,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/11.png",
+              "src": "@PROJECT_PATH@/assets/images/12.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2413,13 +2422,14 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": "1000",
+              "link": "index.html",
+              "size": "",
               "active": true,
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "color": ""
+              "color": "",
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КОМПЛЕКТ</a>",
@@ -2661,7 +2671,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/11.png",
+              "src": "@PROJECT_PATH@/assets/images/12.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2670,13 +2680,14 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": "1000",
+              "link": "index.html",
+              "size": "",
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
               "active": true,
-              "color": ""
+              "color": "",
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КОМПЛЕКТ</a>",
@@ -2814,7 +2825,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/11.png",
+              "src": "@PROJECT_PATH@/assets/images/12.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2822,13 +2833,14 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": "1000",
+              "link": "index.html",
+              "size": "",
               "active": true,
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "color": ""
+              "color": "",
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КОМПЛЕКТ</a>",
@@ -3018,7 +3030,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/11.png",
+              "src": "@PROJECT_PATH@/assets/images/12.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3026,13 +3038,14 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": "1000",
+              "link": "index.html",
+              "size": "",
               "active": true,
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "color": ""
+              "color": "",
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КОМПЛЕКТ</a>",
