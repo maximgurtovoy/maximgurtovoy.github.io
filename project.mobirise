@@ -35,8 +35,8 @@
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "favicon": "",
-    "noImageResize": "true",
+    "favicon": "@PROJECT_PATH@/assets/images/117-128x130.png",
+    "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": ""
   },
@@ -129,7 +129,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/16.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "komplekt21",
               "link": "index.html",
               "title": ""
             },
@@ -728,7 +728,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/16.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "komplekt21",
               "link": "index.html",
               "title": ""
             },
@@ -961,7 +961,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/16.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "komplekt21",
               "link": "index.html",
               "title": ""
             },
@@ -1238,7 +1238,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/16.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "komplekt21",
               "link": "index.html",
               "title": ""
             },
@@ -1443,7 +1443,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/16.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "komplekt21",
               "link": "index.html",
               "title": ""
             },
@@ -1596,7 +1596,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/16.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "komplekt21",
               "link": "index.html",
               "title": ""
             },
@@ -1853,7 +1853,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/16.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "komplekt21",
               "link": "index.html",
               "title": ""
             },
@@ -2006,7 +2006,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/16.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "komplekt21",
               "link": "index.html",
               "title": ""
             },
@@ -2263,7 +2263,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/16.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "komplekt21",
               "link": "index.html",
               "title": ""
             },
@@ -2416,7 +2416,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/16.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "komplekt21",
               "link": "index.html",
               "title": ""
             },
@@ -2673,7 +2673,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/16.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "komplekt21",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -2827,7 +2827,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/16.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "komplekt21",
               "link": "index.html",
               "title": ""
             },
@@ -3032,7 +3032,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/16.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "komplekt21",
               "link": "index.html",
               "title": ""
             },
