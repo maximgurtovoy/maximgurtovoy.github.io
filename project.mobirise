@@ -6,31 +6,32 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#3d8eb9",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
-        "warningColor": "#3d8eb9",
-        "dangerColor": "#f28281",
+        "primaryColor": "#7e9b9f",
+        "secondaryColor": "#f97352",
+        "successColor": "#f97352",
+        "infoColor": "#f97352",
+        "warningColor": "#f97352",
+        "dangerColor": "#f97352",
         "titleFont": "Montserrat",
         "subtitleFont": "Montserrat",
         "textFont": "Montserrat",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false,
         "isRtl": false
       },
       "additionalSetColors": [
+        "#f49983",
+        "#afcfdf",
+        "#a0d0e9",
+        "#cae6f4",
         "#282828",
         "#2e2e2e",
-        "#fdfcf8",
-        "#fcfbf7",
-        "#7c7c7c",
-        "#f1c050"
+        "#fdfcf8"
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 190,
+    "uniqCompNum": 199,
     "versionPublish": "4.5.2",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
@@ -122,7 +123,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#7e9b9f!important"
             }
           },
           "logo": {
@@ -188,52 +189,12 @@
             "bgColor": "#3d8eb9"
           },
           "title": "",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-51"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#3d8eb9"
-          },
-          "title": "",
           "meta": "",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
           "_anchor": "header3-4z"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#f1c050"
-          },
-          "title": "",
-          "meta": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-57"
         },
         {
           "_styles": {
@@ -259,9 +220,29 @@
           "_anchor": "header3-53"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#3d8eb9"
+          },
+          "title": "",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5a"
+        },
+        {
           "_params": {
             "showImages": true,
-            "showTitles": true,
+            "showTitles": false,
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false,
@@ -338,15 +319,15 @@
               "active": true
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title1": "",
+          "subtitle1": "AXOR INDUSTRY – это динамично развивающаяся международная компания, имеющая собственные производственные мощности, обеспечивающие полный цикл производства оконно-дверной фурнитуры. Расположенный в г. Днепропетровск (Украина) современный завод оснащен передовым высокотехнологичным оборудованием и многоуровневой системой контроля качества, охватывающей каждый этап производства.",
+          "caption1": "",
           "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "Группа компаний МАСО\r<div>​МАСО производит фурнитуру на трех австрийских предприятиях и реализует ее в более чем 40 странах мира. В 15 странах компания имеет собственные филиалы. В цепочке от разработки продукта до его реализации задействованы более 2000 сотрудников компании.</div>",
+          "caption2": "",
           "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "",
+          "caption3": "Имея опыт работы в производстве пластиковых окон и ПВХ профиля с 1995 г. Мы решили создать свой бренд на рынке оконных систем. Главное отличие ILMARI - сбалансированность, которая позволяет предлагать потребителям качественный, функциональный и эстетичный продукт по доступной цене.",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -366,7 +347,13 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-4s"
+          "_anchor": "features3-4s",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_styles": {
@@ -423,7 +410,7 @@
             "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#f1c050"
+            "bgColor": "#f7967e"
           },
           "title": "",
           "meta": "",
@@ -568,7 +555,27 @@
           "_params": {
             "showMeta": false,
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5f"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgColor": "#3d8eb9"
           },
           "title": "",
@@ -589,7 +596,7 @@
             "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#f1c050"
+            "bgColor": "#fcfbf7"
           },
           "title": "",
           "meta": "",
@@ -610,7 +617,8 @@
               "active": true,
               "link": "page22.html",
               "size": 0,
-              "newWindow": false
+              "newWindow": false,
+              "color": "#f97352"
             }
           },
           "media2": {
@@ -622,7 +630,8 @@
               "active": true,
               "link": "page13.html",
               "size": 0,
-              "newWindow": false
+              "newWindow": false,
+              "color": "#f97352"
             }
           },
           "media3": {
@@ -634,7 +643,8 @@
               "active": true,
               "link": "index.html",
               "size": 0,
-              "newWindow": false
+              "newWindow": false,
+              "color": "#f97352"
             }
           },
           "media4": {
@@ -675,18 +685,18 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
             "showButtons": false,
-            "columnsColor": "#ffffff",
+            "columnsColor": "#fdfcf8",
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#fdfcf8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -723,13 +733,16 @@
           "_anchor": "features2-2",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#ffffff"
+              "background-color": "#fdfcf8"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#000000"
+              "color": "#f97352"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "color": "#282828"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#f97352"
             }
           }
         },
@@ -743,7 +756,7 @@
             "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#f1c050"
+            "bgColor": "#fcfbf7"
           },
           "title": "",
           "meta": "",
@@ -752,6 +765,46 @@
           ],
           "_name": "header3",
           "_anchor": "header3-59"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#3d8eb9"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5e"
         },
         {
           "_params": {
@@ -797,6 +850,26 @@
               "color": "#000000"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#3d8eb9"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5c"
         }
       ]
     },
@@ -1052,7 +1125,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1280,7 +1353,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1485,7 +1558,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1690,7 +1763,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1895,7 +1968,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2100,7 +2173,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2305,7 +2378,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2510,7 +2583,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2715,7 +2788,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2921,7 +2994,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3126,7 +3199,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3331,7 +3404,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3739,7 +3812,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3985,7 +4058,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -4214,7 +4287,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -4399,7 +4472,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -4628,7 +4701,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -4921,7 +4994,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -5117,7 +5190,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -5610,7 +5683,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -5871,7 +5944,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -6023,7 +6096,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -6241,7 +6314,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -6459,7 +6532,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -6610,7 +6683,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -6761,7 +6834,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcfbf7",
+            "bgColor": "#cae6f4",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
