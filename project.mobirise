@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KOMPLEKT21",
-    "currentPage": "page13.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,11 +25,12 @@
         "#2e2e2e",
         "#fdfcf8",
         "#fcfbf7",
-        "#7c7c7c"
+        "#7c7c7c",
+        "#f1c050"
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 151,
+    "uniqCompNum": 187,
     "versionPublish": "4.5.2",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
@@ -60,14 +61,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -82,36 +83,36 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#282828"
+              "color": "#2e2e2e"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#282828"
+              "background-color": "#2e2e2e"
             },
             ".link, .dropdown-item": {
-              "color": "#282828",
+              "color": "#2e2e2e",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#f2ebd0"
+              "background": "#eee8d2"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#faf7ec!important"
+              "background": "#f8f5ec!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fdfcf8"
+              "background": "#fcfbf7"
             },
             ".bg-color.transparent .link": {
-              "color": "#282828",
+              "color": "#2e2e2e",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -150,6 +151,269 @@
           "_anchor": "ext_menu-0"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "5",
+            "paddingBottom": "0",
+            "bgColor": "#3d8eb9"
+          },
+          "title": "",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#3d8eb9"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-51"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#3d8eb9"
+          },
+          "title": "",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4z"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Наши портнеры",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-53"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fcfbf7",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/16-300x100.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/maco-logo.svg6-200x222.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/16-2-300x100.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-4s"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#3d8eb9"
+          },
+          "title": "",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4v"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#3d8eb9"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4y"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#f1c050"
+          },
+          "title": "",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-50"
+        },
+        {
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -157,7 +421,7 @@
             "ShowTexts": true,
             "showButtons": true,
             "columnsColor": "#ffffff",
-            "paddingTop": "4",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
@@ -276,6 +540,46 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#3d8eb9"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-55"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#f1c050"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-56"
+        },
+        {
           "_inherit": "features1",
           "media1": {
             "iconFont": {
@@ -284,7 +588,7 @@
               "name": "download",
               "family": "mobirise-icons-bold",
               "active": true,
-              "link": "index.html",
+              "link": "page22.html",
               "size": 0,
               "newWindow": false
             }
@@ -354,7 +658,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false,
-            "columnsColor": "#ffffff",
+            "columnsColor": "#fcfbf7",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": "3",
@@ -362,7 +666,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#fcfbf7",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -399,7 +703,7 @@
           "_anchor": "features2-2",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#ffffff"
+              "background-color": "#fcfbf7"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
               "color": "#000000"
@@ -417,7 +721,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -524,14 +828,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -708,7 +1012,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -764,14 +1068,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -936,7 +1240,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1044,14 +1348,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -1141,7 +1445,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1249,14 +1553,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -1346,7 +1650,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1402,14 +1706,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -1551,7 +1855,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1659,14 +1963,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -1756,7 +2060,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1812,14 +2116,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -1961,7 +2265,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2069,14 +2373,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -2166,7 +2470,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2222,14 +2526,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -2371,7 +2675,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2479,14 +2783,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -2577,7 +2881,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2633,14 +2937,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -2782,7 +3086,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2838,14 +3142,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -2987,7 +3291,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3043,14 +3347,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -3395,7 +3699,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3434,258 +3738,6 @@
         }
       ]
     },
-    "page14.html": {
-      "settings": {
-        "meta_descr": "Website Generator Description",
-        "title": "Загрузки",
-        "order": 5
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
-            },
-            "fontColor": "#282828",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#282828"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#282828"
-            },
-            ".link, .dropdown-item": {
-              "color": "#282828",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
-            },
-            ".link": {
-              "font-size": "1.2rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#f2ebd0"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#faf7ec!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fdfcf8"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#282828",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-117x128.jpg",
-              "height": 128,
-              "alt": "komplekt21",
-              "link": "index.html",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "link": "index.html",
-              "size": "",
-              "color": "",
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">КОМПЛЕКТ21</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-27"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"assets/files/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%20axor.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-2a"
-        },
-        {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
-              "width": 128,
-              "active": true,
-              "link": "index.html",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Адрес</b></span></font><br>Автозаправочный пр., 28, Чебоксары, Чувашская Респ., 428022<br><br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Контакты</b></span></font><br>почта; komplect21@yandex.ru<br>телефон: +7-909-302-38-59",
-          "text3": "<br><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "SPAN": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts1-28"
-        }
-      ]
-    },
     "page15.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
@@ -3702,14 +3754,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -3893,7 +3945,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3948,14 +4000,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -4122,7 +4174,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -4177,14 +4229,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -4307,7 +4359,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -4362,14 +4414,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -4536,7 +4588,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -4591,14 +4643,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -4829,7 +4881,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -4884,14 +4936,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -5025,7 +5077,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -5080,14 +5132,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -5518,7 +5570,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -5573,14 +5625,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -5670,7 +5722,7 @@
             "showButtons": true,
             "paddingTop": "4",
             "paddingBottom": 2,
-            "columns": 4,
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -5686,26 +5738,35 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/maco-logo.svg6-300x332.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/26-300x332.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/16-300x332.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
@@ -5770,7 +5831,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -5825,14 +5886,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -5922,7 +5983,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -5977,14 +6038,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -6140,7 +6201,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -6195,14 +6256,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -6358,7 +6419,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -6413,14 +6474,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -6509,7 +6570,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -6564,14 +6625,14 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fdfcf8",
-            "fontSize": "1.2",
+            "bgColor": "#fcfbf7",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#282828",
+            "fontColor": "#2e2e2e",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ГЛАВНАЯ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">КАТАЛОГ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">MULTI-MATIC Поворотно-откидная фурнитура</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">ESPAGS Фурнитура для наружного открывания</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">EMOTION оконные ручки</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">О НАС</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
@@ -6660,7 +6721,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
