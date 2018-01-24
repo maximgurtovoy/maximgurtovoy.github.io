@@ -52,12 +52,6 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
 }
-.btn {
-  border-radius: 1.6em;
-}
-.mbr-subscribe .btn {
-  border-radius: 1.6em !important;
-}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -496,12 +490,16 @@ h6,
 #header3-4z .mbr-section-subtitle {
   text-align: center;
 }
+#header3-57 .mbr-section-title,
+#header3-57 .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-53 .mbr-section-title,
 #header3-53 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-53 .mbr-section-title {
-  font-size: 25px;
+  font-size: 20px;
 }
 #header3-4v .mbr-section-title,
 #header3-4v .mbr-section-subtitle {
@@ -534,18 +532,22 @@ h6,
 #header3-55 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-56 .mbr-section-title,
-#header3-56 .mbr-section-subtitle {
+#header3-58 .mbr-section-title,
+#header3-58 .mbr-section-subtitle {
   text-align: center;
 }
 #features2-2 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #fcfbf7;
+  background-color: #ffffff;
 }
 #features2-2 .mbr-cards-col:nth-child(odd) .card-title {
   color: #000000;
 }
 #features2-2 .mbr-cards-col:nth-child(odd) .card-text {
   color: #282828;
+}
+#header3-59 .mbr-section-title,
+#header3-59 .mbr-section-subtitle {
+  text-align: center;
 }
 #contacts1-4 P {
   color: #000000;
