@@ -2377,3 +2377,103 @@ h6,
 #contacts1-46 SPAN {
   color: #000000;
 }
+
+#ext_menu-5t .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-5t .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-5t .navbar-toggler {
+  color: #2e2e2e;
+}
+#ext_menu-5t .close-icon::before,
+#ext_menu-5t .close-icon::after {
+  background-color: #2e2e2e;
+}
+#ext_menu-5t .link,
+#ext_menu-5t .dropdown-item {
+  color: #2e2e2e;
+  font-family: 'Lato', sans-serif;
+}
+#ext_menu-5t .link {
+  font-size: 1.15rem;
+}
+#ext_menu-5t .dropdown-item,
+#ext_menu-5t .nav-dropdown-sm .link {
+  font-size: 1.245rem;
+}
+#ext_menu-5t .link:hover,
+#ext_menu-5t .dropdown-item:hover,
+#ext_menu-5t .link:focus,
+#ext_menu-5t .dropdown-item:focus {
+  color: #7e9b9f;
+}
+#ext_menu-5t .link[aria-expanded="true"],
+#ext_menu-5t .dropdown-menu {
+  background: #eee8d2;
+}
+#ext_menu-5t .nav-dropdown-sm .link:focus,
+#ext_menu-5t .nav-dropdown-sm .link:hover,
+#ext_menu-5t .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-5t .nav-dropdown-sm .dropdown-item:hover {
+  background: #f8f5ec!important;
+}
+#ext_menu-5t .navbar,
+#ext_menu-5t .nav-dropdown-sm,
+#ext_menu-5t .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-5t .nav-dropdown-sm .dropdown-menu {
+  background: #fcfbf7;
+}
+#ext_menu-5t .bg-color.transparent .link {
+  color: #2e2e2e;
+  transition: none;
+}
+#ext_menu-5t .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-5t .bg-color.transparent.opened .link:hover,
+#ext_menu-5t .bg-color.transparent.opened .link:focus {
+  color: #7e9b9f;
+}
+#ext_menu-5t .link[aria-expanded="true"],
+#ext_menu-5t .dropdown-item[aria-expanded="true"] {
+  color: #7e9b9f!important;
+}
+#header3-5w .mbr-section-title,
+#header3-5w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5y .mbr-section-title,
+#header3-5y .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-62 .mbr-section-title,
+#header3-62 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-66 .mbr-section-title,
+#header3-66 .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box5-5v H3 {
+  font-size: 30px;
+}
+#header3-64 .mbr-section-title,
+#header3-64 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5z .mbr-section-title,
+#header3-5z .mbr-section-subtitle {
+  text-align: center;
+}
+#contacts1-5u P {
+  color: #000000;
+}
+#contacts1-5u SPAN {
+  color: #000000;
+}
+#header3-65 .mbr-section-title,
+#header3-65 .mbr-section-subtitle {
+  text-align: center;
+}
