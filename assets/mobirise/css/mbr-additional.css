@@ -544,16 +544,16 @@ h6,
   text-align: center;
 }
 #features2-2 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #fdfcf8;
+  background-color: #ffffff;
 }
 #features2-2 .mbr-cards-col:nth-child(odd) .card-title {
-  color: #f97352;
+  color: #3d8eb9;
 }
 #features2-2 .mbr-cards-col:nth-child(odd) .card-text {
   color: #282828;
 }
 #features2-2 .mbr-cards-col:nth-child(even) .card-title {
-  color: #f97352;
+  color: #3d8eb9;
 }
 #header3-59 .mbr-section-title,
 #header3-59 .mbr-section-subtitle {
@@ -567,11 +567,19 @@ h6,
 #header3-5e .mbr-section-subtitle {
   text-align: center;
 }
+#header3-5k .mbr-section-title,
+#header3-5k .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts1-4 P {
   color: #000000;
 }
 #contacts1-4 SPAN {
   color: #000000;
+}
+#header3-5j .mbr-section-title,
+#header3-5j .mbr-section-subtitle {
+  text-align: center;
 }
 #header3-5c .mbr-section-title,
 #header3-5c .mbr-section-subtitle {

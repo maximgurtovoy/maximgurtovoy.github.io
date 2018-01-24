@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#fcfbf7",
         "#f49983",
         "#afcfdf",
         "#a0d0e9",
         "#cae6f4",
         "#282828",
-        "#2e2e2e",
-        "#fdfcf8"
+        "#2e2e2e"
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 199,
+    "uniqCompNum": 209,
     "versionPublish": "4.5.2",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
@@ -410,7 +410,7 @@
             "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#f7967e"
+            "bgColor": "#2e2e2e"
           },
           "title": "",
           "meta": "",
@@ -618,7 +618,7 @@
               "link": "page22.html",
               "size": 0,
               "newWindow": false,
-              "color": "#f97352"
+              "color": "#3d8eb9"
             }
           },
           "media2": {
@@ -631,7 +631,7 @@
               "link": "page13.html",
               "size": 0,
               "newWindow": false,
-              "color": "#f97352"
+              "color": "#3d8eb9"
             }
           },
           "media3": {
@@ -644,7 +644,7 @@
               "link": "index.html",
               "size": 0,
               "newWindow": false,
-              "color": "#f97352"
+              "color": "#3d8eb9"
             }
           },
           "media4": {
@@ -688,7 +688,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "columnsColor": "#fdfcf8",
+            "columnsColor": "#ffffff",
             "paddingTop": "0",
             "paddingBottom": "1",
             "columns": "3",
@@ -696,7 +696,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fdfcf8",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -733,16 +733,16 @@
           "_anchor": "features2-2",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#fdfcf8"
+              "background-color": "#ffffff"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#f97352"
+              "color": "#3d8eb9"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "color": "#282828"
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#f97352"
+              "color": "#3d8eb9"
             }
           }
         },
@@ -807,6 +807,26 @@
           "_anchor": "header3-5e"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "title": "",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5k"
+        },
+        {
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "3",
@@ -850,6 +870,26 @@
               "color": "#000000"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "title": "",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5j"
         },
         {
           "_styles": {
@@ -1132,7 +1172,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -1360,7 +1400,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -1565,7 +1605,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -1770,7 +1810,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -1975,7 +2015,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -2180,7 +2220,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -2385,7 +2425,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -2590,7 +2630,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -2795,7 +2835,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -3001,7 +3041,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -3206,7 +3246,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -3411,7 +3451,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -3819,7 +3859,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -4065,7 +4105,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -4294,7 +4334,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -4479,7 +4519,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -4708,7 +4748,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -5001,7 +5041,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -5197,7 +5237,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -5690,7 +5730,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -5951,7 +5991,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -6103,7 +6143,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -6321,7 +6361,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -6539,7 +6579,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -6690,7 +6730,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -6841,7 +6881,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/photo-2017-11-30-20-08-45-128x139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/111-128x139.jpg",
               "width": 128,
               "active": true,
               "link": "index.html",
