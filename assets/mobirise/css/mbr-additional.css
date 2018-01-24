@@ -2477,3 +2477,113 @@ h6,
 #header3-65 .mbr-section-subtitle {
   text-align: center;
 }
+
+#ext_menu-6a .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-6a .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-6a .navbar-toggler {
+  color: #2e2e2e;
+}
+#ext_menu-6a .close-icon::before,
+#ext_menu-6a .close-icon::after {
+  background-color: #2e2e2e;
+}
+#ext_menu-6a .link,
+#ext_menu-6a .dropdown-item {
+  color: #2e2e2e;
+  font-family: 'Lato', sans-serif;
+}
+#ext_menu-6a .link {
+  font-size: 1.15rem;
+}
+#ext_menu-6a .dropdown-item,
+#ext_menu-6a .nav-dropdown-sm .link {
+  font-size: 1.245rem;
+}
+#ext_menu-6a .link:hover,
+#ext_menu-6a .dropdown-item:hover,
+#ext_menu-6a .link:focus,
+#ext_menu-6a .dropdown-item:focus {
+  color: #7e9b9f;
+}
+#ext_menu-6a .link[aria-expanded="true"],
+#ext_menu-6a .dropdown-menu {
+  background: #eee8d2;
+}
+#ext_menu-6a .nav-dropdown-sm .link:focus,
+#ext_menu-6a .nav-dropdown-sm .link:hover,
+#ext_menu-6a .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-6a .nav-dropdown-sm .dropdown-item:hover {
+  background: #f8f5ec!important;
+}
+#ext_menu-6a .navbar,
+#ext_menu-6a .nav-dropdown-sm,
+#ext_menu-6a .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-6a .nav-dropdown-sm .dropdown-menu {
+  background: #fcfbf7;
+}
+#ext_menu-6a .bg-color.transparent .link {
+  color: #2e2e2e;
+  transition: none;
+}
+#ext_menu-6a .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-6a .bg-color.transparent.opened .link:hover,
+#ext_menu-6a .bg-color.transparent.opened .link:focus {
+  color: #7e9b9f;
+}
+#ext_menu-6a .link[aria-expanded="true"],
+#ext_menu-6a .dropdown-item[aria-expanded="true"] {
+  color: #7e9b9f!important;
+}
+#header3-6b .mbr-section-title,
+#header3-6b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6c .mbr-section-title,
+#header3-6c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6d .mbr-section-title,
+#header3-6d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6e .mbr-section-title,
+#header3-6e .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box5-6f H3 {
+  font-size: 30px;
+}
+#header3-6m .mbr-section-title,
+#header3-6m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6n .mbr-section-title,
+#header3-6n .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6n .mbr-section-title {
+  font-size: 30px;
+}
+#header3-6n .mbr-section-title DIV {
+  font-size: 17px;
+}
+#header3-6g .mbr-section-title,
+#header3-6g .mbr-section-subtitle {
+  text-align: center;
+}
+#contacts1-6j P {
+  color: #000000;
+}
+#contacts1-6j SPAN {
+  color: #000000;
+}
+#header3-6k .mbr-section-title,
+#header3-6k .mbr-section-subtitle {
+  text-align: center;
+}
