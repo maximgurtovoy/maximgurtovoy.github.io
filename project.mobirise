@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 240,
+    "uniqCompNum": 245,
     "versionPublish": "4.5.2",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
@@ -211,7 +211,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "title": "<span style=\"font-weight: normal;\">Наши портнеры</span>",
+          "title": "<span style=\"font-weight: normal;\">Наши партнеры</span>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -280,9 +280,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "page29.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -579,7 +580,7 @@
               "link": "page22.html",
               "size": 0,
               "newWindow": false,
-              "color": "#3d8eb9"
+              "color": "#f49983"
             }
           },
           "media2": {
@@ -592,7 +593,7 @@
               "link": "page13.html",
               "size": 0,
               "newWindow": false,
-              "color": "#3d8eb9"
+              "color": "#f49983"
             }
           },
           "media3": {
@@ -605,7 +606,7 @@
               "link": "index.html",
               "size": 0,
               "newWindow": false,
-              "color": "#3d8eb9"
+              "color": "#f49983"
             }
           },
           "media4": {
@@ -697,13 +698,13 @@
               "background-color": "#ffffff"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#3d8eb9"
+              "color": "#f49983"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "color": "#282828"
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#3d8eb9"
+              "color": "#f49983"
             }
           }
         },
@@ -7482,7 +7483,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": "25",
             "paddingTop": "1",
@@ -7523,7 +7524,7 @@
           },
           "title": "Группа компаний МАСО &nbsp;",
           "text": "Группа компаний МАСО\n<br>​МАСО производит фурнитуру на трех австрийских предприятиях и реализует ее в более чем 40 странах мира. В 15 странах компания имеет собственные филиалы. В цепочке от разработки продукта до его реализации задействованы более 2000 сотрудников компании.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%20axor.pdf\" data-toolbar=\"-mbrBtnMove\">Смотреть каталог</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"assets/files/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%20axor.pdf\" data-toolbar=\"-mbrBtnMove\">Смотреть каталог</a>",
           "_tags": [
             "Theme"
           ],
@@ -7582,29 +7583,31 @@
           "_anchor": "header3-6n"
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"assets/files/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%20maco%20multi-matic.pdf\" data-toolbar=\"-mbrBtnMove\">Смотреть каталог</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-6o"
+        },
+        {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
-            "spacing": "1",
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "fullWidth": false,
+            "spacing": "3",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "filterBgColor": true,
             "bgColor": "#ffffff",
             "showText": true,
             "filter": false,
             "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2-1-1-2-2a-233x233.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-1-1-2-2a-233x233-233x233.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -7613,8 +7616,8 @@
                 "image": "@PROJECT_PATH@/assets/images/2-1-1-2-2b-233x233.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-1-1-2-2b-233x233-233x233.jpg",
                 "alt": "",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "Безопасность\n<br>Различные классы взломостойкости по стандарту EN 1627 до 1630.",
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -7624,7 +7627,7 @@
                 "image": "@PROJECT_PATH@/assets/images/2-1-1-2-2c-233x233.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-1-1-2-2c-233x233-233x233.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Защитное покрытие\n<br>У ржавчины нет шансов - лучшее защитное покрытие с учетом места и условий эксплуатации.",
                 "active": false
               },
               {
@@ -7635,7 +7638,7 @@
                 "image": "@PROJECT_PATH@/assets/images/2-1-1-2-2d-233x233.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-1-1-2-2d-233x233-233x233.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Комфорт\n<br>Серийно встроенный приподниматель – блокиратор ошибочного действия.",
                 "active": false
               },
               {
@@ -7646,41 +7649,8 @@
                 "image": "@PROJECT_PATH@/assets/images/2-1-1-2-2f-233x233.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-1-1-2-2f-233x233-233x233.jpg",
                 "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "Проветривание\n<br>Семь вариантов механического проветривания для окон из дерева и ПВХ, в качестве дополнительных опций или дооснащения.",
+                "active": false
               }
             ]
           },
@@ -7711,6 +7681,129 @@
           ],
           "_name": "header3",
           "_anchor": "header3-6g"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Maco каталог фурнитуры для сдвижных систем",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6q"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"assets/files/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%20%D1%84%D1%83%D1%80%D0%BD%D0%B8%D1%82%D1%83%D1%80%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B4%D0%B2%D0%B8%D0%B6%D0%BD%D1%8B%D1%85%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC.pdf\" data-toolbar=\"-mbrBtnMove\">Смотреть каталог</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-6r"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "3",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": true,
+            "bgColor": "#ffffff",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-3-1-2-14-460x311.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-3-1-2-14-460x311-460x311.jpg",
+                "alt": "",
+                "caption": "Система контроля за положением створки",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-3-1-2-5-460x311.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-3-1-2-5-460x311-460x311.jpg",
+                "alt": "",
+                "caption": "Амортизаторы",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-3-1-2-15-460x311.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-3-1-2-15-460x311-460x311.jpg",
+                "alt": "",
+                "caption": "Скрытолежащий механизм со стальными крюками для всех схем",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-3-1-2-12-460x311.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-3-1-2-12-460x311-460x311.jpg",
+                "alt": "",
+                "caption": "Каретка",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-6p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#3d8eb9"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6s"
         },
         {
           "_params": {
