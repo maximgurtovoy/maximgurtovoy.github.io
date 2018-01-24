@@ -517,10 +517,6 @@ h6,
 #header3-4y .mbr-section-subtitle {
   text-align: center;
 }
-#header3-50 .mbr-section-title,
-#header3-50 .mbr-section-subtitle {
-  text-align: center;
-}
 #features1-1 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
 }
@@ -530,10 +526,6 @@ h6,
 }
 #features1-1 .mbr-cards-col:nth-child(odd) .card-title {
   color: #282828;
-}
-#header3-5f .mbr-section-title,
-#header3-5f .mbr-section-subtitle {
-  text-align: center;
 }
 #header3-55 .mbr-section-title,
 #header3-55 .mbr-section-subtitle {
@@ -567,19 +559,11 @@ h6,
 #header3-5e .mbr-section-subtitle {
   text-align: center;
 }
-#header3-5k .mbr-section-title,
-#header3-5k .mbr-section-subtitle {
-  text-align: center;
-}
 #contacts1-4 P {
   color: #000000;
 }
 #contacts1-4 SPAN {
   color: #000000;
-}
-#header3-5j .mbr-section-title,
-#header3-5j .mbr-section-subtitle {
-  text-align: center;
 }
 #header3-5c .mbr-section-title,
 #header3-5c .mbr-section-subtitle {

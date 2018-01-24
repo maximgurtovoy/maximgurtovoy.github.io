@@ -401,26 +401,6 @@
           "_anchor": "header3-4y"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#2e2e2e"
-          },
-          "title": "",
-          "meta": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-50"
-        },
-        {
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -545,26 +525,6 @@
               "color": "#282828"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#2e2e2e"
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-5f"
         },
         {
           "_styles": {
@@ -807,26 +767,6 @@
           "_anchor": "header3-5e"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#2e2e2e"
-          },
-          "title": "",
-          "meta": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-5k"
-        },
-        {
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "3",
@@ -870,26 +810,6 @@
               "color": "#000000"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#2e2e2e"
-          },
-          "title": "",
-          "meta": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-5j"
         },
         {
           "_styles": {
